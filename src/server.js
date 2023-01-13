@@ -3,6 +3,7 @@ import listEndpoints from "express-list-endpoints";
 import mediasRouter from "./api/medias/index.js";
 import { join } from "path";
 import cors from "cors";
+import filesRouter from "./api/files/index.js";
 import {
   badRequestHandler,
   genericErrorHandler,
@@ -39,6 +40,7 @@ server.use(express.static(publicFolderPath));
 //*******ENDPOINTS*************/
 
 server.use("/medias", mediasRouter);
+server.use("/medias", filesRouter);
 
 //*******ERROR HANDLERS********/
 server.use(badRequestHandler); //400

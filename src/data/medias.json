@@ -1,9 +1,1 @@
-[
-  {
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "year": "2001",
-    "imdbID": "tt0120737",
-    "type": "movie",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5MzcwOTg4MF5BMl5BanBnXkFtZTgwOTQwMzQxMDE@._V1_SX300.jpg"
-  }
-]
+[{"Title":"Avengers: Endgame","Year":"2019","imdbID":"tt4154796","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg","createdAt":"2023-01-13T13:38:31.421Z","id":"2phjqhjglcukezy5"},{"Title":"Inception","Year":"2010","imdbID":"tt1375666","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg","createdAt":"2023-01-13T13:38:44.089Z","id":"2phjqhjglcukf9q1"},{"Title":"Inception: The Cobol Job","Year":"2010","imdbID":"tt5295894","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMjE0NGIwM2EtZjQxZi00ZTE5LWExN2MtNDBlMjY1ZmZkYjU3XkEyXkFqcGdeQXVyNjMwNzk3Mjk@._V1_SX300.jpg","createdAt":"2023-01-13T13:38:50.690Z","id":"2phjqhjglcukfete"},{"Title":"The Shawshank Redemption","Year":"1994","imdbID":"tt0111161","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg","createdAt":"2023-01-13T13:45:07.292Z","id":"2phjqhjglcuknhek"},{"Title":"The Godfather","Year":"1972","imdbID":"tt0068646","Type":"movie","Poster":"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","createdAt":"2023-01-13T13:46:20.788Z","id":"2phjqhjglcukp244"}]
